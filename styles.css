@@ -1,0 +1,98 @@
+body {
+  background-color: lightblue;
+}
+header {
+  background-color: #0492c2;
+  height: 3.5rem;
+  color: white;
+}
+img {
+  width: 25px;
+  height: 25px;
+  margin-top: 0.85rem;
+  color: white;
+}
+
+.main {
+  background-color: white;
+  width: 100%;
+  max-width: 400px;
+  height: 490px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3rem;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.deal {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.date {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+.line {
+  flex: 1;
+  height: 1px;
+  background-color: gray;
+}
+#middle {
+}
+#tech {
+  width: 23rem;
+}
+.tech {
+  float: right;
+  font-size: medium;
+  color: #0492c2;
+}
+.techo {
+  color: #bebebe;
+}
+.time {
+  color: #bebebe;
+  font-size: small;
+}
+ul {
+  color: white;
+  display: flex;
+  gap: 11rem;
+}
+ul li {
+  padding-top: 1.25rem;
+}
+#text {
+  float: right;
+  background-color: pink;
+}
+
+.left {
+  width: 14rem;
+  float: left;
+}
+.color {
+  background-color: #b9d9eb;
+}
+.colors {
+  background-color: gainsboro;
+}
+.right {
+  width: 19rem;
+  float: right;
+}
+#place {
+  border: none;
+  outline: none;
+  flex-grow: 1;
+}
+.send {
+  display: flex;
+  align-items: center;
+
+  margin-bottom: 5rem;
+}
+.push {
+  color: #0492c2;
+}
